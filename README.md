@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aryan800
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning AWS
+- 👋 Hi, I am a Software Engineer
+- 🌱 I’m currently working in a product based company
+- 👀 Skills - JavaScript, ReactJS, HTML, CSS, Bootstrap, jQuery, Ajax, PHP, MySQL
 - 📫 My address ak0252224@gmail.com
 
 <!---
